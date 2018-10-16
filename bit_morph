@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<html xml:lang='en-CA' xmlns='http://www.w3.org/1999/xhtml'>
+    <head>
+        <title>‘bit_morph’</title>
+        </head>
+    <body>
+
+
+<section      id='bit_morph'>
+    <h2><a href='#bit_morph'>
+                  bit morph</a></h2>
+    <ul>
+        <li>
+            each of two or more alternative inscriptions of a waybit
+            that arise by editing and are found at the same locus
+            <!-- After the definition of ‘allele’ in the Oxford dictionary of English, 2nd edition.
+              Edited by Judy Pearsall, Patrick Hanks, Catherine Soanes and Angus Stevenson.
+              Oxford University Press, Oxford, 2003. -->
+            <ul>
+                <li>
+                    the <a href='http://reluk.ca/project/wayic/wayical'>
+                    wayical</a> analogue of an allele, or ‘allelomorph’
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </section>
+
+
+        </body>
+    </html>

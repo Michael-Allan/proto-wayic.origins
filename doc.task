@@ -1,4 +1,77 @@
 wayic.origins/doc.task - Documentation in rough
 
+                     Wayics   Biology
+      ─────────────────────   ───────────────────
+                    culture   organic nature
+      ·····················   ···················
+                    waykind   taxon
+      intercast way network   population
+
+                    waycast   genotype
+                        way   individual
+                                            ↑ increasing spatial scale
+                  bit clade   gene clade
+                     waybit   gene
+                      locus   locus
+                  bit morph   allele, allelomorph
+      ·····················   ···················
+                  wayscript   genetic code
+
+        - comparative wayical and biological terminology
+            - analagous terms
+        - some analagous terms are largely equivalent and interchangeable in the context
+          of the present project, while elsewhere clarity demands the precise wayical or biological term
+
+    < cf. recombinant text
+        ( http://reluk.ca/project/textbender/d/overview.xht
+        ( http://reluk.ca/project/votorola/d/theory.xht#action-norm
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────────
+    Bit clade`
+    ( ./bit_clade
+    - analogue of a gene clade
+        ( see top
+        = cite the definition of 'gene clade'
+            - whether from here, or the term document
+            - the term is generally unfamiliar
+            - moreover its definition is unclear, and some of what follows may be incorrect
+    - nominal lines of descent, a clade only in name
+        < unlike a gene clade
+        - always the genetic parentage of a given waybit is under control of its waycaster
+            - who as wayscribe may reassign it
+            ( like votes in Votorola's normative polls
+        - so a bit clade's lines of descent are nominal
+        - so, by the same token, it is a clade only in name
+    - fully extant membership
+        < unlike a gene clade
+        - every progentitor is inscribed in a contemporary waycast where it exists still
+        - removal of the inscription would extinguish the progentitor as such
+            - and there break the line
+        - so the membership of the bit clade is fully extant
+    - non-static encodings
+        < unlike a gene clade
+        - the inscription of every progentitor is mutable by its waycaster
+            - who as wayscribe may edit it for that purpose
+        - so the progenitor has a potentially non-static inscription as its encoding
+            - unlike the biological analogue (ancestral gene) in which the encoding is immutable
+        - so, by the same token, the bit clade has non-static encodings
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────────
+    Intercast way network`
+    ( http://reluk.ca/project/wayic/intercast/intercast_way_network
+    < see also § Intercast way network, http://reluk.ca/project/wayic/intercast/doc.task
+    - analogue of a biological population
+        ( see top and http://reluk.ca/project/wayic/intercast/intercast_way_network
+        - the analogy is not here pinned down except to say
+            - on the bases of nominal genetic ties of past formation
+                = cite the genetic aspect of the way network's link type
+                    - namely of the intercast referential joint
+                    ( http://reluk.ca/project/wayic/read/project.task
+                    ( http://reluk.ca/project/wayic/intercast/doc.task
+            - and a more or less interactive community of present waycasters
+                = cite the associated network type of *waycaster community*
+                    ( http://reluk.ca/project/wayic/read/project.task
+            - the ways of the network share a common course of future evolution
+
 
                                           Copyright © 2018 Michael Allan and contributors.  Licence MIT.
