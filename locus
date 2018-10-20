@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<html xml:lang='en-CA' xmlns='http://www.w3.org/1999/xhtml'>
+    <head>
+        <title>‘locus’</title>
+        </head>
+    <body>
+
+
+<section      id='locus'>
+    <h2><a href='#locus'>
+                  locus</a></h2>
+    <ul>
+        <li>
+            the <a href='http://reluk.ca/project/wayic/script/waybit'>
+            waybit</a> attribute whose value is equal between two <a href='bit_morph'>
+            bit morphs</a>, so defining them as such
+            <ul>
+                <li>
+                    the <a href='http://reluk.ca/project/wayic/wayical'>
+                    wayical</a> analogue of a chromosomal locus
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </section>
+
+
+        </body>
+    </html>
