@@ -61,6 +61,25 @@ wayic.origins/doc.task - Documentation in rough
             - so, by the same token, the bit clade has non-static encodings
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
+    Bit cladistics`
+    - comparative genealogical terminology
+        - for sake of clarity, distinct terms are favoured between bit cladistics on one hand,
+          and elemental nesting of wayscript on the other
+            ( http://reluk.ca/project/wayic/script/doc.task § Nesting of elements § genealogical
+
+               Bit cladistics   Elemental nesting
+               ──────────────   ─────────────────
+                   progenitor   ancestor
+                       mother   parent
+
+                     daughter   child
+                      progeny   descendant(s)
+                   ··········   ···············
+            Unit:      waybit   waybit, element
+          Timing:  diachronic   synchronic
+
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────────
     Genetic bitlink`
     < surtype: intercast link
         ( http://reluk.ca/project/wayic/intercast/doc.task
