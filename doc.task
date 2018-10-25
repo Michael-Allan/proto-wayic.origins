@@ -115,11 +115,11 @@ wayic.origins/doc.task - Documentation in rough
     Morphogenetic bitlink`
     < surtype: genetic bitlink
     - a genetic link between bit morphs
+        ( in other words
+            - a non-clonal, intralocal genetic link
+            - a genetic link between co-local waybits of varying genetic content
     - usage
         - (default) routing of a bit morph search
-    - implied differences (of definition) from the genetic bitlink surtype
-        - non-clonal
-        - intralocal, between co-local waybits
 
 
                                           Copyright © 2018 Michael Allan and contributors.  Licence MIT.
