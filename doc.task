@@ -94,6 +94,19 @@ wayic.origins/doc.task - Documentation in rough
         - (default) routing of collaborative change flow among wayscribes
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
+    Genetic content`
+    ( ./genetic_content
+    - exclusions
+        - which determine the bounds of genetic content
+        * elemental start and end tags
+        * uniquely personal lines of text
+            ( http://reluk.ca/project/wayic/copy/doc.task
+        * external referents
+            - the actual referents of hyperlinks, referential jointers and other references
+              that lie outside of the wayscript part in question
+            - external links, in other words, cut across the boundary of genetic content
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────────
     Intercast way network`
     ( http://reluk.ca/project/wayic/intercast/intercast_way_network
     < see also § Intercast way network, http://reluk.ca/project/wayic/intercast/doc.task
