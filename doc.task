@@ -128,7 +128,7 @@ wayic.origins/doc.task - Documentation in rough
     ( ./locus
     - form:    free form string
     - default: waybit public identifier
-        ( http://reluk.ca/project/wayic/cast/doc.task § Public identification
+        ( http://reluk.ca/project/wayic/script/doc.task § Waybit § publication
     + *locus* attribute
         < way:locus, namespace data:,wayscript
         - the declaration of a locus
