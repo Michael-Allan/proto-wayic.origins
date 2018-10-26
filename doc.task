@@ -124,6 +124,18 @@ wayic.origins/doc.task - Documentation in rough
             - the ways of the network share a common course of future evolution
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
+    Locus`
+    ( ./locus
+    - form:    free form string
+    - default: waybit public identifier
+        ( http://reluk.ca/project/wayic/cast/doc.task § Public identification
+    + *locus* attribute
+        < way:locus, namespace data:,wayscript
+        - the declaration of a locus
+        - placement: waybit or *patch* element
+            ( http://reluk.ca/project/wayic/intercast/doc.task § *patch* element
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────────
     Morphogenetic bit forest`
     < surtype: bit clade
     ( a poll in Votorola terms
