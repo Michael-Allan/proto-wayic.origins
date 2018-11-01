@@ -39,20 +39,33 @@ wayic.origins/doc.task - Documentation in rough
             - whether from here, or the term document
             - the term is generally unfamiliar
             - moreover its definition is unclear, and some of what follows may be incorrect
-        - nominal lines of descent, a clade only in name
+        * nominal lines of descent, a clade only in name
             < unlike a gene clade
             - always the genetic parentage of a given waybit is under control of its waycaster
                 - who as wayscribe may reassign it
                 ( like votes in Votorola's normative polls
-            - so a bit clade's lines of descent are nominal
+                - diverting it to uses more in accord with the practical, e.g. collaborative purposes
+                  of intercast networking
+                    ( §       Genetic bitlink § function
+                    ( § Morphogenetic bitlink § function
+                - uses other than genetics
+            - so a bit clade's lines of descent need not (ordinarily will not)
+              be actual lines of [ontic] origin
             - so, by the same token, it is a clade only in name
-        - fully extant membership
+        * cyclic lines of descent
+            < unlike a gene clade
+            - formally possible
+                ( as in Votorola
+            - the meaning of a cycle will vary according to the function affected by it
+              and the particular context
+                - and may be blocked in some contexts
+        * fully extant membership
             < unlike a gene clade
             - every progentitor is inscribed in a contemporary waycast where it exists still
             - removal of the inscription would extinguish the progentitor as such
                 - and there break the line
             - so the membership of the bit clade is fully extant
-        - non-static encodings
+        * non-static encodings
             < unlike a gene clade
             - the inscription of every progentitor is mutable by its waycaster
                 - who as wayscribe may edit it for that purpose
@@ -90,8 +103,37 @@ wayic.origins/doc.task - Documentation in rough
         ( http://reluk.ca/project/wayic/intercast/doc.task
         < subtype: morphogenetic bitlink
     - a genetic link between waybits
-    - usage
-        - (default) routing of collaborative change flow among wayscribes
+    + form
+        =§ add "abstract form"
+            * daughter waybit
+            * mother waybit
+            = these bound|assigned in each concrete form
+        =§ add "concrete form"
+            * that of importation and way inclusion of a waybit
+                ( wayic.intercast § Importation § on-way imported waybit
+            * that of *patch* element
+            * etc.
+    + function
+        - to route collaborative change flow
+            - each genetic bitlink declares the mother waybit the default source for change flow
+              incoming to the daughter
+        - to declare approval of waybit content
+            ( Votorola-style transitive vote flow ('delegate cascade') in a recombinant text
+            - each genetic bitlink is formally a vote
+                - whereby the caster (vote caster = waycaster) formally approves (votes for)
+                  the content of the mother waybit and (by transitive vote flow) its progenitors
+            - here the vote caster is every waycaster for whom that genetic link is on way
+                ( http://reluk.ca/project/wayic/script/on_way
+                - warrant
+                    - fact
+                        ( cf. "voting with one's feet"
+                        - being on way
+                            - the mother waybit is used
+                            - which usage implies approval
+                    - prudence
+                        - to avoid forcing the formation of supernumerary direct links
+                            - each merely to formalize the approval already actualized
+                              in the indirect link
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Genetic content`
@@ -148,8 +190,8 @@ wayic.origins/doc.task - Documentation in rough
         ( in other words
             - a non-clonal, intralocal genetic link
             - a genetic link between co-local waybits of varying genetic content
-    - usage
-        - (default) routing of a bit morph search
+    - function
+        - (default) to route wayscribes' searches for bit morphs
 
 
 
