@@ -101,18 +101,30 @@ wayic.origins/doc.task - Documentation in rough
     Genetic bitlink`
     < surtype: intercast link
         ( http://reluk.ca/project/wayic/intercast/doc.task
-        < subtype: morphogenetic bitlink
     - a genetic link between waybits
+    + typology
+        * genetic bitlink
+            * morphogenetic bitlink
     + form
-        =§ add "abstract form"
-            * daughter waybit
+        - abstract form
+
+                  mother → daughter
+
             * mother waybit
-            = these bound|assigned in each concrete form
-        =§ add "concrete form"
-            * that of importation and way inclusion of a waybit
-                ( wayic.intercast § Importation § on-way imported waybit
-            * that of *patch* element
-            * etc.
+                ( node
+                - the genetic parent of the daughter waybit
+            * daughter waybit
+                ( node
+                - a genetic child of the mother waybit
+        - concrete forms
+            ( key:  (g) genetic bitlink  (m) morphogenetic bitlink
+            ( including a graphical summary < MOTHER → DAUGHTER > of each form
+            *g transport bitlink
+                < exported waybit → imported waybit >
+                ( http://reluk.ca/project/wayic/intercast/doc.task
+            *m *patch* element
+                < original waybit → variant waybit >
+                ( http://reluk.ca/project/wayic/intercast/doc.task
     + function
         - to route collaborative change flow
             - each genetic bitlink declares the mother waybit the default source for change flow
@@ -190,7 +202,13 @@ wayic.origins/doc.task - Documentation in rough
         ( in other words
             - a non-clonal, intralocal genetic link
             - a genetic link between co-local waybits of varying genetic content
-    - function
+    + form
+        - abstract form
+            * mother morph
+            * daughter morph
+        - concrete forms
+            ( as per surtype
+    + function
         - (default) to route wayscribes' searches for bit morphs
 
 
