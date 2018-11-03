@@ -102,29 +102,27 @@ wayic.origins/doc.task - Documentation in rough
     < surtype: intercast link
         ( http://reluk.ca/project/wayic/intercast/doc.task
     - a genetic link between waybits
-    + typology
-        * genetic bitlink
-            * morphogenetic bitlink
     + form
-        - abstract form
+              mother waybit → daughter waybit
 
-                  mother → daughter
-
-            * mother waybit
-                ( node
-                - the genetic parent of the daughter waybit
-            * daughter waybit
-                ( node
-                - a genetic child of the mother waybit
-        - concrete forms
-            ( key:  (g) genetic bitlink  (m) morphogenetic bitlink
-            ( including a graphical summary < MOTHER → DAUGHTER > of each form
-            *g transport bitlink
+        * mother waybit
+            ( node
+            - the genetic parent of the daughter waybit
+        * daughter waybit
+            ( node
+            - a genetic child of the mother waybit
+    + typology
+        ( including a formal summary < MOTHER → DAUGHTER > of each type
+        * genetic bitlink
+            < mother waybit → daughter waybit >
+            * transport bitlink
                 < exported waybit → imported waybit >
                 ( http://reluk.ca/project/wayic/intercast/doc.task
-            *m *patch* element
-                < original waybit → variant waybit >
-                ( http://reluk.ca/project/wayic/intercast/doc.task
+            * morphogenetic bitlink
+                < mother morph → daughter morph >
+                * patch
+                    < original waybit → variant waybit >
+                    ( http://reluk.ca/project/wayic/intercast/doc.task
     + function
         - to route collaborative change flow
             - each genetic bitlink declares the mother waybit the default source for change flow
@@ -203,11 +201,14 @@ wayic.origins/doc.task - Documentation in rough
             - a non-clonal, intralocal genetic link
             - a genetic link between co-local waybits of varying genetic content
     + form
-        - abstract form
-            * mother morph
-            * daughter morph
-        - concrete forms
-            ( as per surtype
+              mother morph → daughter morph
+
+        * mother morph
+            ( node
+            - the genetic parent of the daughter morph
+        * daughter morph
+            ( node
+            - a co-local, non-clonal child of the mother morph
     + function
         - (default) to route wayscribes' searches for bit morphs
 
