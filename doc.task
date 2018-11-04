@@ -1,20 +1,20 @@
 wayic.origins/doc.task - Documentation in rough
 
                      Wayics   Biology
-      ─────────────────────   ───────────────────
+      ─────────────────────   ─────────────────────
                     culture   organic nature
-      ·····················   ···················
+      ·····················   ·····················
                     waykind   taxon
       intercast way network   population
 
                     waycast   genotype
-                        way   individual
-                                            ↑ increasing spatial scale
-                  bit clade   gene clade
+                        way   individual             ↑ increasing spatial scale
+
+                  bit clade   gene clade, gene tree
                      waybit   gene
                       locus   locus
                   bit morph   allele, allelomorph
-      ·····················   ···················
+      ·····················   ·····················
                   wayscript   genetic code
 
         - comparative wayical and biological terminology
@@ -31,14 +31,9 @@ wayic.origins/doc.task - Documentation in rough
     ( ./bit_clade
     < surtype: intercast network
         ( http://reluk.ca/project/wayic/intercast/doc.task
-        < subtype: morphogenetic bit forest
     - link form: genetic bitlink
-    - analogue of a gene clade
+    - analogue of a gene clade, or gene tree
         ( see top
-        = cite the definition of 'gene clade'
-            - whether from here, or the term document
-            - the term is generally unfamiliar
-            - moreover its definition is unclear, and some of what follows may be incorrect
         * nominal lines of descent, a clade only in name
             < unlike a gene clade
             - always the genetic parentage of a given waybit is under control of its waycaster
@@ -184,7 +179,9 @@ wayic.origins/doc.task - Documentation in rough
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Morphogenetic bit forest`
-    < surtype: bit clade
+    ( ./morphogenetic_bit_forest
+    < surtype: intercast network
+        ( http://reluk.ca/project/wayic/intercast/doc.task
     ( a poll in Votorola terms
     - link form: morphogenetic bitlink
 
@@ -198,6 +195,8 @@ wayic.origins/doc.task - Documentation in rough
     + form
               mother morph → daughter morph
 
+        * locus
+            - the common locus of both mother morph and daughter morph
         * mother morph
             ( node
             - the genetic parent of the daughter morph
