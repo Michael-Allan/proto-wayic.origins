@@ -93,11 +93,6 @@ wayic.origins/doc.task - Documentation in rough
 
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
-    Bit morph`
-    ( ./bit_morph
-    - bit morphs are co-local, non-clonal waybits
-
-    ────────────────────────────────────────────────────────────────────────────────────────────────────
     Genetic bitlink`
     < surtype: intercast link
         ( http://reluk.ca/project/wayic/intercast/doc.task
