@@ -90,7 +90,7 @@ wayic.origins/doc.task - Documentation in rough
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Genetic bitlink`
     < surtype: intercast link
-        ( http://reluk.ca/project/wayic/intercast/doc.task
+        ( [IR], http://reluk.ca/project/wayic/intercast/doc.task
     - a genetic link between waybits
     + form
               mother waybit → daughter waybit
@@ -205,6 +205,13 @@ wayic.origins/doc.task - Documentation in rough
             - a co-local, non-clonal child of the mother morph
     + function
         - (default) to route wayscribes' searches for bit morphs
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+// N o t e
+/
+   [IR] · Applies only for those instances which are based on an import reference.
+            ( http://reluk.ca/project/wayic/intercast/doc.task
 
 
 
