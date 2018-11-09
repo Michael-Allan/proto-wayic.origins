@@ -31,9 +31,18 @@ wayic.origins/doc.task - Documentation in rough
     ( ./bit_clade
     < surtype: intercast network
         ( http://reluk.ca/project/wayic/intercast/doc.task
-    - link form: genetic bitlink
-    - analogue of a gene clade, or gene tree
+    + form
+        - tree of waybits interlinked by genetic bitlinks
+    + function
+        - to route collaborative change flow
+            - each genetic bitlink declares the mother waybit the default source for change flow
+              incoming to the daughter
+                - thence in turn to the daughter’s daughter, if any
+                - and so on, spreading leafward through the branches of the clade
+            - thus change flows, by default, from progentitor to progeny
+    + analogy
         ( see top
+        - a bit clade is the wayical analogue of a biological gene clade, or gene tree
         * nominal lines of descent, a clade only in name
             < unlike a gene clade
             - always the genetic parentage of a given waybit is under control of its waycaster
@@ -114,9 +123,7 @@ wayic.origins/doc.task - Documentation in rough
                     < original waybit → variant waybit >
                     ( http://reluk.ca/project/wayic/intercast/doc.task
     + function
-        - to route collaborative change flow
-            - each genetic bitlink declares the mother waybit the default source for change flow
-              incoming to the daughter
+        - to form a bit clade
         - to declare approval of waybit content
             ( Votorola-style transitive vote flow ('delegate cascade') in a recombinant text
             - each genetic bitlink is formally a vote
@@ -183,7 +190,12 @@ wayic.origins/doc.task - Documentation in rough
     < surtype: intercast network
         ( http://reluk.ca/project/wayic/intercast/doc.task
     ( a poll in Votorola terms
-    - link form: morphogenetic bitlink
+    + form
+        - forest of bit morphs interlinked in trees by morphogenetic bitlinks
+    + function
+        - to guide wayscribes' searches for bit morphs
+            - giving them a structure that is relatively efficient for this purpose
+            - faster to search, easier to orient by
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Morphogenetic bitlink`
@@ -204,7 +216,7 @@ wayic.origins/doc.task - Documentation in rough
             ( node
             - a co-local, non-clonal child of the mother morph
     + function
-        - (default) to route wayscribes' searches for bit morphs
+        - to form a morphogenetic bit forest
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////
