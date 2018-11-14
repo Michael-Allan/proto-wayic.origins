@@ -192,16 +192,16 @@ wayic.origins/doc.task - Documentation in rough
     ( ./recombinant_bitlink
     < surtype: stemmatic bitlink
     + form
-              mother morph → daughter morph
+              mother recombit → daughter recombit
 
         * locus
-            - the common locus of both mother morph and daughter morph
-        * mother morph
+            - the common locus of both mother recombit and daughter recombit
+        * mother recombit
             ( node
-            - the genetic parent of the daughter morph
-        * daughter morph
+            - the genetic parent of the daughter recombit
+        * daughter recombit
             ( node
-            - a co-local, non-clonal child of the mother morph
+            - a co-local, non-clonal child of the mother recombit
     + formation
         * recombinant stemmaplasty
             - stemmaplasty in which the daughter waybit is co-local and non-clonal with the mother
@@ -310,7 +310,7 @@ wayic.origins/doc.task - Documentation in rough
                 < exported waybit → imported waybit >
                 ( http://reluk.ca/project/wayic/intercast/doc.task
             * recombinant bitlink
-                < mother morph → daughter morph >
+                < mother recombit → daughter recombit >
     + function
         - forms a bit stemma
         - declares approval of waybit content
