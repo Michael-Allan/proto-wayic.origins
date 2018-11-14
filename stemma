@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <html xml:lang='en-CA' xmlns='http://www.w3.org/1999/xhtml'>
     <head>
-        <title>‘bit_clade’</title>
+        <title>‘stemma’</title>
         </head>
     <body>
 
 
-<section      id='bit_clade'>
-    <h2><a href='#bit_clade'>
-                  bit clade</a></h2>
+<section      id='stemma'>
+    <h2><a href='#stemma'>
+                  stemma</a></h2>
     <ul>
         <li>
             an <a href='http://reluk.ca/project/wayic/cast/intercast_network'>
@@ -20,7 +20,7 @@
             <ul>
                 <li>
                     the <a href='http://reluk.ca/project/wayic/wayical'>
-                    wayical</a> analogue of a gene clade, or gene tree
+                    wayical</a> analogue of a gene tree
                     </li>
                 </ul>
             </li>

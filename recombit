@@ -1,14 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <html xml:lang='en-CA' xmlns='http://www.w3.org/1999/xhtml'>
     <head>
-        <title>‘bit_morph’</title>
+        <title>‘recombit’</title>
         </head>
     <body>
+        <!-- Not 'recombinant waybit'.  It would clash with the biological terminology.
+          There 'recombinant' means formed by recombination, which is not the meaning here. -->
 
 
-<section      id='bit_morph'>
-    <h2><a href='#bit_morph'>
-                  bit morph</a></h2>
+<section      id='recombit'>
+    <h2><a href='#recombit'>
+                  recombit</a></h2>
     <ul>
         <li>
             each of two or more alternative inscriptions

@@ -1,17 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <html xml:lang='en-CA' xmlns='http://www.w3.org/1999/xhtml'>
     <head>
-        <title>‘genetic_bit_tree’</title>
+        <title>‘stemmaplast’</title>
         </head>
     <body>
 
 
-<section      id='genetic_bit_tree'>
-    <h2><a href='#genetic_bit_tree'>
-                  genetic bit tree</a></h2>
+<section      id='stemmaplast'>
+    <h2><a href='#stemmaplast'>
+                  stemmaplast</a></h2>
     <ul>
         <li>
-            another term for a <a href='bit_clade'>bit clade</a>
+            a creator of a <a href='stemmatic_bitlink'>
+            stemmatic bitlink</a>
             </li>
         </ul>
     </section>

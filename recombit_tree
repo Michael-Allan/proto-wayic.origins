@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<html xml:lang='en-CA' xmlns='http://www.w3.org/1999/xhtml'>
+    <head>
+        <title>‘recombit_tree’</title>
+        </head>
+    <body>
+
+
+<section      id='recombit_tree'>
+    <h2><a href='#recombit_tree'>
+                  recombit tree</a></h2>
+    <ul>
+        <li>
+            a <a href='stemma'>
+            stemma</a> excluding <a href='clone'>
+            clones</a> and bounded by a <a href='locus'>
+            locus</a>, such that it contains only <a href='recombit'>
+            recombits</a>
+            </li>
+            <ul>
+                <li>
+                    an <a href='intralocal'>
+                    intralocal</a>, non-clonal stemma
+                    </li>
+                </ul>
+        </ul>
+    </section>
+
+
+        </body>
+    </html>
