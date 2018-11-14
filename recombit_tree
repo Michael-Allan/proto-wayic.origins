@@ -11,8 +11,8 @@
                   recombit tree</a></h2>
     <ul>
         <li>
-            a <a href='stemma'>
-            stemma</a> excluding <a href='clone'>
+            a <a href='bit_stemma'>
+            bit stemma</a> excluding <a href='clone'>
             clones</a> and bounded by a <a href='locus'>
             locus</a>, such that it contains only <a href='recombit'>
             recombits</a>
@@ -20,7 +20,7 @@
             <ul>
                 <li>
                     an <a href='intralocal'>
-                    intralocal</a>, non-clonal stemma
+                    intralocal</a>, non-clonal bit stemma
                     </li>
                 </ul>
         </ul>

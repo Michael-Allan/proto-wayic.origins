@@ -10,7 +10,7 @@ wayic.origins/doc.task - Documentation in rough
                     waycast   genotype
                         way   individual     ↑ increasing spatial scale
 
-                     stemma   gene tree
+                 bit stemma   gene tree
                      waybit   gene
                       locus   locus
                    recombit   allele, allelomorph
@@ -25,6 +25,77 @@ wayic.origins/doc.task - Documentation in rough
     < cf. recombinant text
         ( http://reluk.ca/project/textbender/d/overview.xht
         ( http://reluk.ca/project/votorola/d/theory.xht#action-norm
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────────
+    Bit stemma`
+    ( ./bit_stemma
+    < surtype: intercast network
+        ( http://reluk.ca/project/wayic/intercast/doc.task
+    + form
+        - tree of waybits interlinked by stemmatic bitlinks
+    + function
+        - routes collaborative change flow
+            - each stemmatic bitlink declares the mother waybit the default source for change flow
+              incoming to the daughter
+                - thence in turn to the daughter’s daughter, if any
+                - and so on, spreading leafward through the branches of the bit stemma
+            - thus change flows, by default, from progentitor to progeny
+    + terminology
+        * comparative genealogical terms
+            - for sake of clarity, distinct terms are favoured between stemmatics on one hand,
+              and elemental nesting of wayscript on the other
+                ( http://reluk.ca/project/wayic/script/doc.task § Nesting of elements § genealogical
+
+                   Bit stemmatics   Elemental nesting
+                   ──────────────   ─────────────────
+                       progenitor   ancestor
+                           mother   parent
+
+                         daughter   child
+                          progeny   descendant(s)
+                       ··········   ···············
+                Unit:      waybit   waybit, element
+              Timing:  diachronic   synchronic
+
+    + analogy
+        ( see top
+        - a bit stemma is the wayical analogue of a biological gene tree
+        * nominal lines of descent, genetic only in name
+            < unlike a gene tree
+            - always the genetic parentage of a given waybit is under control of its waycaster
+                - who as wayscribe may reassign it
+                ( like votes in Votorola's normative polls
+                - diverting it to uses more in accord with the practical, e.g. collaborative purposes
+                  of intercast networking
+                    ( § Bit stemma               § function
+                    ( § Stemmatic bitlink        § function
+                    ( § Recombit forest § function
+                - uses other than genetics
+            - so a bit stemma's lines of descent need not (ordinarily will not)
+              be actual lines of [ontic] origin
+            - so, by the same token, they are genetic only in name
+        * cyclic lines of descent
+            < unlike a gene tree
+            - formally possible
+                ( as in Votorola
+            - the meaning of a cycle will vary according to the function affected by it
+              and the particular context
+                - and may be blocked in some contexts
+        * fully extant membership
+            < unlike a gene tree, or at least a fully extended one (gene clade)
+            - every progentitor is inscribed in a contemporary waycast where it exists still
+            - removal of the inscription would extinguish the progentitor as such
+                - and there break the line
+            - so the membership of the bit stemma is fully extant
+        * non-static encodings
+            < unlike a gene tree
+            - the inscription of every progentitor is mutable by its waycaster
+                - who as wayscribe may edit it for that purpose
+            - so the progenitor has a potentially non-static inscription as its encoding
+                - unlike the biological analogue (ancestral gene) in which the encoding is immutable
+            - so, by the same token, the bit stemma has non-static encodings
+        * includes clones
+            < unlike a gene tree perhaps
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Genetic content`
@@ -154,77 +225,6 @@ wayic.origins/doc.task - Documentation in rough
         ( cf. Votorola poll, http://reluk.ca/w/Category:Poll
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
-    Stemma`
-    ( ./stemma
-    < surtype: intercast network
-        ( http://reluk.ca/project/wayic/intercast/doc.task
-    + form
-        - tree of waybits interlinked by stemmatic bitlinks
-    + function
-        - routes collaborative change flow
-            - each stemmatic bitlink declares the mother waybit the default source for change flow
-              incoming to the daughter
-                - thence in turn to the daughter’s daughter, if any
-                - and so on, spreading leafward through the branches of the stemma
-            - thus change flows, by default, from progentitor to progeny
-    + terminology
-        * comparative genealogical terms
-            - for sake of clarity, distinct terms are favoured between stemmatics on one hand,
-              and elemental nesting of wayscript on the other
-                ( http://reluk.ca/project/wayic/script/doc.task § Nesting of elements § genealogical
-
-                       Stemmatics   Elemental nesting
-                   ──────────────   ─────────────────
-                       progenitor   ancestor
-                           mother   parent
-
-                         daughter   child
-                          progeny   descendant(s)
-                       ··········   ···············
-                Unit:      waybit   waybit, element
-              Timing:  diachronic   synchronic
-
-    + analogy
-        ( see top
-        - a stemma is the wayical analogue of a biological gene tree
-        * nominal lines of descent, genetic only in name
-            < unlike a gene tree
-            - always the genetic parentage of a given waybit is under control of its waycaster
-                - who as wayscribe may reassign it
-                ( like votes in Votorola's normative polls
-                - diverting it to uses more in accord with the practical, e.g. collaborative purposes
-                  of intercast networking
-                    ( § Stemma                   § function
-                    ( § Stemmatic bitlink        § function
-                    ( § Recombit forest § function
-                - uses other than genetics
-            - so a stemma's lines of descent need not (ordinarily will not)
-              be actual lines of [ontic] origin
-            - so, by the same token, they are genetic only in name
-        * cyclic lines of descent
-            < unlike a gene tree
-            - formally possible
-                ( as in Votorola
-            - the meaning of a cycle will vary according to the function affected by it
-              and the particular context
-                - and may be blocked in some contexts
-        * fully extant membership
-            < unlike a gene tree, or at least a fully extended one (gene clade)
-            - every progentitor is inscribed in a contemporary waycast where it exists still
-            - removal of the inscription would extinguish the progentitor as such
-                - and there break the line
-            - so the membership of the stemma is fully extant
-        * non-static encodings
-            < unlike a gene tree
-            - the inscription of every progentitor is mutable by its waycaster
-                - who as wayscribe may edit it for that purpose
-            - so the progenitor has a potentially non-static inscription as its encoding
-                - unlike the biological analogue (ancestral gene) in which the encoding is immutable
-            - so, by the same token, the stemma has non-static encodings
-        * includes clones
-            < unlike a gene tree perhaps
-
-    ────────────────────────────────────────────────────────────────────────────────────────────────────
     Stemmaplast`
     ( ./stemmaplast
     + typology
@@ -312,7 +312,7 @@ wayic.origins/doc.task - Documentation in rough
             * recombinant bitlink
                 < mother morph → daughter morph >
     + function
-        - forms a stemma
+        - forms a bit stemma
         - declares approval of waybit content
             < Votorola style, transitive vote flow ('delegate cascade') in a recombinant text
                 ( http://reluk.ca/project/votorola/d/theory.xht#action-norm
