@@ -118,11 +118,8 @@ wayic.origins/doc.task - Documentation in rough
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Recombinant bitlink`
+    ( ./recombinant_bitlink
     < surtype: stemmatic bitlink
-    - a genetic link between recombits
-        ( in other words
-            - a genetic link between co-local waybits of varying genetic content
-            - a non-clonal, intralocal stemmatic bitlink
     + form
               mother morph → daughter morph
 
