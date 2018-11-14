@@ -215,14 +215,17 @@ wayic.origins/doc.task - Documentation in rough
         ( http://reluk.ca/project/wayic/intercast/doc.task
     + form
         - group of recombit trees
-        * recombit tree
-            ( ./recombit_tree
-            - form: tree of recombits interlinked by recombinant bitlinks
     + function
         - guides wayscribes' searches for recombits
             - giving them a structure that is relatively efficient for this purpose
             - faster to search, easier to orient by
         ( cf. Votorola poll, http://reluk.ca/w/Category:Poll
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────────
+    Recombit tree`
+    ( ./recombit_tree
+    + form
+        - tree of recombits interlinked by recombinant bitlinks
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Stemmaplast`
