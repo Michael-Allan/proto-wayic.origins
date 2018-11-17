@@ -30,7 +30,6 @@ wayic.origins/doc.task - Documentation in rough
     Bit stemma`
     ( ./bit_stemma
     < surtype: intercast network
-        ( http://reluk.ca/project/wayic/intercast/doc.task
     + form
         - tree of waybits interlinked by stemmatic bitlinks
     + function
@@ -112,7 +111,6 @@ wayic.origins/doc.task - Documentation in rough
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Intercast way network`
-    ( http://reluk.ca/project/wayic/intercast/intercast_way_network
     < see also § Intercast way network, http://reluk.ca/project/wayic/intercast/doc.task
     - analogue of a biological population
         ( see top and http://reluk.ca/project/wayic/intercast/intercast_way_network
@@ -134,7 +132,6 @@ wayic.origins/doc.task - Documentation in rough
         1 the value as set by a locus attribute
         2 the value as set by a stemmaplast
         3 the public identifier of the waybit
-            ( http://reluk.ca/project/wayic/script/doc.task § Waybit
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Locus attribute`
@@ -160,7 +157,6 @@ wayic.origins/doc.task - Documentation in rough
             - sets the locus of the waybit to the value literal
         < with a value name of '_'
             - sets the locus of the waybit to the public identifier of the waybit
-                ( http://reluk.ca/project/wayic/script/doc.task § Waybit
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Maternal attribute`
@@ -212,7 +208,6 @@ wayic.origins/doc.task - Documentation in rough
     Recombit forest`
     ( ./recombit_forest
     < surtype: intercast network
-        ( http://reluk.ca/project/wayic/intercast/doc.task
     + form
         - group of recombit trees
     + function
@@ -293,7 +288,7 @@ wayic.origins/doc.task - Documentation in rough
     Stemmatic bitlink`
     ( ./stemmatic_bitlink
     < surtype: intercast link
-        ( [IR], http://reluk.ca/project/wayic/intercast/doc.task
+        ( [IR]
     + form
               mother waybit → daughter waybit
 
@@ -323,7 +318,6 @@ wayic.origins/doc.task - Documentation in rough
                 - whereby the caster (vote caster = waycaster) formally approves (votes for)
                   the content of the mother waybit and (by transitive vote flow) its progenitors
             - here the vote caster is every waycaster for whom that genetic link is on way
-                ( http://reluk.ca/project/wayic/script/on_way
                 - warrant
                     - fact
                         ( cf. "voting with one's feet"
