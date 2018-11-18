@@ -1,21 +1,22 @@
 wayic.origins/doc.task - Documentation in rough
 
-                     Wayics   Biology
-      ─────────────────────   ───────────────────
-                    culture   organic nature
-      ·····················   ···················
-                    waykind   taxon
-      intercast way network   population
+                            Wayics   Biology
+                  ────────────────   ───────────────────
+         Sphere:     human culture   organic nature
+                  ················   ···················
+                           waykind   taxon
+                    way population   population
 
-                    waycast   genotype
-                        way   individual     ↑ increasing spatial scale
+                           waycast   genotype
+                               way   individual     ↑ increasing spatial scale
 
-                 bit stemma   gene tree
-                     waybit   gene
-                      locus   locus
-                   recombit   allele, allelomorph
-      ·····················   ···················
-                  wayscript   genetic code
+                        bit stemma   gene tree
+                            waybit   gene
+                             locus   locus
+                          recombit   allele, allelomorph
+                  ················   ···················
+      Mechanism:  waycaster choice   natural selection
+       Language:         wayscript   genetic code
 
         - comparative wayical and biological terminology
             - analagous terms
@@ -39,6 +40,7 @@ wayic.origins/doc.task - Documentation in rough
                 - thence in turn to the daughter’s daughter, if any
                 - and so on, spreading leafward through the branches of the bit stemma
             - thus change flows, by default, from progentitor to progeny
+        - aids the evolution of waykinds
     + terminology
         * comparative genealogical terms
             - for sake of clarity, distinct terms are favoured between stemmatics on one hand,
@@ -108,22 +110,6 @@ wayic.origins/doc.task - Documentation in rough
             - the actual referents of hyperlinks, referential jointers and other references
               that lie outside of the wayscript part in question
             - external links, in other words, cut across the boundary of genetic content
-
-    ────────────────────────────────────────────────────────────────────────────────────────────────────
-    Intercast way network`
-    < see also § Intercast way network, http://reluk.ca/project/wayic/intercast/doc.task
-    - analogue of a biological population
-        ( see top and http://reluk.ca/project/wayic/intercast/intercast_way_network
-        - the analogy is not here pinned down except to say
-            - on the bases of nominal genetic ties of past formation
-                = cite the genetic aspect of the way network's link type
-                    - namely of the intercast referential joint
-                    ( http://reluk.ca/project/wayic/read/project.task
-                    ( http://reluk.ca/project/wayic/intercast/doc.task
-            - and a more or less interactive community of present waycasters
-                - each bound to the network by a waycaster-waycast bond
-                ( § Waycaster network, http://reluk.ca/project/wayic/intercast/doc.task
-            - the ways of the network share a common course of future evolution
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Locus`
@@ -203,6 +189,8 @@ wayic.origins/doc.task - Documentation in rough
             - stemmaplasty in which the daughter waybit is co-local and non-clonal with the mother
     + function
         - forms a recombit forest
+        - forms a waycaster network
+            ( [IR]
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Recombit forest`
@@ -214,7 +202,8 @@ wayic.origins/doc.task - Documentation in rough
         - guides wayscribes' searches for recombits
             - giving them a structure that is relatively efficient for this purpose
             - faster to search, easier to orient by
-        ( cf. Votorola poll, http://reluk.ca/w/Category:Poll
+            ( cf. Votorola poll, http://reluk.ca/w/Category:Poll
+        - aids the evolution of waykinds
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Recombit tree`
@@ -311,6 +300,8 @@ wayic.origins/doc.task - Documentation in rough
                 < mother recombit → daughter recombit >
     + function
         - forms a bit stemma
+        - forms a waycaster network
+            ( [IR]
         - declares approval of waybit content
             < Votorola style, transitive vote flow ('delegate cascade') in a recombinant text
                 ( http://reluk.ca/project/votorola/d/theory.xht#action-norm
@@ -328,6 +319,28 @@ wayic.origins/doc.task - Documentation in rough
                         - to avoid forcing the formation of supernumerary direct links
                             - each merely to formalize the approval already actualized
                               in the indirect link
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────────
+    Way population`
+    ( ./way_population
+    < surtype: intercast network
+    + form
+        - a group of ways interrelated through their waycasts by referential jointing
+    + function
+        - aids the evolution of waykinds
+    + analogy
+        ( see top
+        - a way population is the wayical analogue of a biological population
+        - the analogy is not here pinned down except to say
+            - on the bases of nominal genetic ties of past formation
+                = cite the genetic aspect of the way population's link type
+                    - namely of the intercast referential joint, e.g. via importation cloning
+                    ( http://reluk.ca/project/wayic/read/project.task
+                    ( http://reluk.ca/project/wayic/intercast/doc.task
+            - and a more or less interactive community of present waycasters
+                - each bound to the network by a waycaster-waycast bond
+                ( § Waycaster network, http://reluk.ca/project/wayic/intercast/doc.task
+            - the ways of the network share a common course of future evolution
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////

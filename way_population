@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<html xml:lang='en-CA' xmlns='http://www.w3.org/1999/xhtml'>
+    <head>
+        <title>‘way_population’</title>
+        </head>
+    <body>
+
+
+<section      id='way_population'>
+    <h2><a href='#way_population'>
+                  way population</a></h2>
+    <ul>
+        <li>
+            an <a href='http://reluk.ca/project/wayic/intercast/intercast_network'>
+            intercast network</a> of <a href='http://reluk.ca/project/wayic/way'>
+            ways</a> bound through their <a href='http://reluk.ca/project/wayic/cast/waycast'>
+            waycasts</a> by intercast <a href='http://reluk.ca/project/wayic/script/referential_joint'>
+            referential joints</a>
+            <ul>
+                <li>
+                    the <a href='http://reluk.ca/project/wayic/wayical'>
+                    wayical</a> analogue of a biological population
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </section>
+
+
+        </body>
+    </html>
