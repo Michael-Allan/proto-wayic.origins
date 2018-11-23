@@ -1,27 +1,25 @@
 wayic.origins/doc.task - Documentation in rough
 
-                            Wayics   Biology
-                  ────────────────   ───────────────────
-         Sphere:     human culture   organic nature
-                  ················   ···················
-                           waykind   taxon
-                    way population   population
+    - analagous terms of evolutionary biology and wayics
 
-                           waycast   genotype
-                               way   individual     ↑ increasing spatial scale
-
-                        bit stemma   gene tree
-                            waybit   gene
-                             locus   locus
-                          recombit   allele, allelomorph
-                  ················   ···················
-      Mechanism:  waycaster choice   natural selection
-       Language:         wayscript   genetic code
-
-        - comparative wayical and biological terminology
-            - analagous terms
-        - some analagous terms are largely equivalent and interchangeable in the context
-          of the present project, while elsewhere clarity demands the precise wayical or biological term
+                                Wayics   Biology
+                      ────────────────   ───────────────────
+             Sphere:     human culture   organic nature
+                      ················   ···················
+                               waykind   taxon
+                        way population   population
+                                   way   individual
+                               waycast   nucleoid, nucleolus
+                             way model   genotype
+                                                               ↑  increasing spatial scale
+                      genetic bit tree   gene tree
+                            bit stemma   gene clade
+                                waybit   gene
+                                 locus   locus
+                              recombit   allele
+                      ················   ···················
+          Mechanism:  waycaster choice   natural selection
+           Language:         wayscript   genetic code
 
     < cf. recombinant text
         ( http://reluk.ca/project/textbender/d/overview.xht
@@ -30,73 +28,97 @@ wayic.origins/doc.task - Documentation in rough
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Bit stemma`
     ( ./bit_stemma
-    < surtype: intercast network
+    + typology
+        ( genetic bit tree
+            * bit stemma
+                * recombit tree
     + form
-        - tree of waybits interlinked by stemmatic bitlinks
-    + function
-        - routes collaborative change flow
-            - each stemmatic bitlink declares the mother waybit the default source for change flow
-              incoming to the daughter
-                - thence in turn to the daughter’s daughter, if any
-                - and so on, spreading leafward through the branches of the bit stemma
-            - thus change flows, by default, from progentitor to progeny
-        - aids the evolution of waykinds
-    + terminology
-        * comparative genealogical terms
-            - for sake of clarity, distinct terms are favoured between stemmatics on one hand,
-              and elemental nesting of wayscript on the other
-                ( http://reluk.ca/project/wayic/script/doc.task § Nesting of elements § genealogical
-
-                   Bit stemmatics   Elemental nesting
-                   ──────────────   ─────────────────
-                       progenitor   ancestor
-                           mother   parent
-
-                         daughter   child
-                          progeny   descendant(s)
-                       ··········   ···············
-                Unit:      waybit   waybit, element
-              Timing:  diachronic   synchronic
-
+        - tree of waybits (stemmabits) interlinked by stemmatic bitlinks
     + analogy
-        ( see top
-        - a bit stemma is the wayical analogue of a biological gene tree
-        * nominal lines of descent, genetic only in name
+        ( see also: top § analagous terms; surtype § analogy
+        - a bit stemma is the wayical analogue of a biological gene clade
+        * fully extant membership
+            < unlike a gene clade
+            - every progentitor is inscribed in a contemporary waycast where it exists still
+            - removal of the inscription would extinguish the progentitor as such
+                - and there terminate (break or truncate) the line of origin
+            - in practice therefore the membership is fully extant
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────────
+    Genetic bitlink`
+    ( ./genetic_bitlink
+    + typology
+        * genetic bitlink
+            * kinbit link
+            * stemmatic bitlink
+                * recombinant bitlink
+    + form
+        - mother → daughter
+    + formation
+        ( see also: § Genetic bitlinkage; subtype §§ formation
+        * stemmaplasts
+    + function
+        ( see also subtype §§ function
+        - forms a genetic bit tree
+        - forms an intercast link
+            ( [IR]
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────────
+    Genetic bitlinkage`
+    - see also § Genetic bitlink § formation
+    + typology
+        - merely terminological
+        < genetic bitlinkage
+            < kinbit linkage
+            < stemmatic bitlinkage
+                ( 'stemmaplasty' would be too broad in scope
+                < recombinant bitlinkage
+        - stemmatic bitlinkage cannot be a subtype of kinbit linkage
+            - to be sure, making a stemmatic bitlink usually involves making at least one kinbit link
+            - but not always
+                - a stemmatic bitlink can be made purely by editing a clone into a non-clone
+            - therefore stemmatic bitlinkage is not necessarily a matter of kinbit linkage
+              and cannot be typed as such
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────────
+    Genetic bit tree`
+    ( ./genetic_bit_tree
+    + typology
+        * genetic bit tree
+            * kinbit tree
+            * bit stemma
+                * recombit tree
+    + form
+        - tree of waybits interlinked by genetic bitlinks
+    + function
+        ( see also subtype §§ function
+        - aids the improvement of ways
+        - aids the evolution of waykinds
+    + analogy
+        ( see also top § analagous terms
+        - a genetic bit tree is the wayical analogue of a biological gene tree
+        * nominal lines of descent, at times genetic only in name
             < unlike a gene tree
-            - always the genetic parentage of a given waybit is under control of its waycaster
+            - the formal genetic parentage of a waybit is likely (especially in non-clonal cases)
+              to be under control of its waycaster
                 - who as wayscribe may reassign it
-                ( like votes in Votorola's normative polls
-                - diverting it to uses more in accord with the practical, e.g. collaborative purposes
-                  of intercast networking
-                    ( § Bit stemma               § function
-                    ( § Stemmatic bitlink        § function
-                    ( § Recombit forest § function
-                - uses other than genetics
-            - so a bit stemma's lines of descent need not (ordinarily will not)
-              be actual lines of [ontic] origin
-            - so, by the same token, they are genetic only in name
+                - diverting it from its proper genetic function to practical wayic purposes
+                  in accord with personal preference
+                    ( § function
+            - so a genetic bit tree's lines of descent need not be actual lines of ontic origin
+                - so, by the same token, they are often genetic only in name
+            - to be sure, change flow regardless will tend to maintain a family resemblance
+                ( § Kinbit tree § function
         * cyclic lines of descent
             < unlike a gene tree
             - formally possible
-                ( as in Votorola
-            - the meaning of a cycle will vary according to the function affected by it
-              and the particular context
-                - and may be blocked in some contexts
-        * fully extant membership
-            < unlike a gene tree, or at least a fully extended one (gene clade)
-            - every progentitor is inscribed in a contemporary waycast where it exists still
-            - removal of the inscription would extinguish the progentitor as such
-                - and there break the line
-            - so the membership of the bit stemma is fully extant
-        * non-static encodings
+            - the effect of a cycle will vary according to the function affected by it
+                ( yet to be determined
+        * non-static genotypes
             < unlike a gene tree
-            - the inscription of every progentitor is mutable by its waycaster
+            - the way model of every progentitor is mutable by its waycaster
                 - who as wayscribe may edit it for that purpose
-            - so the progenitor has a potentially non-static inscription as its encoding
-                - unlike the biological analogue (ancestral gene) in which the encoding is immutable
-            - so, by the same token, the bit stemma has non-static encodings
-        * includes clones
-            < unlike a gene tree perhaps
+            - so it differs from the biological analogue (ancestral genotype), which is immutable
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Genetic content`
@@ -112,12 +134,63 @@ wayic.origins/doc.task - Documentation in rough
             - external links, in other words, cut across the boundary of genetic content
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
+    Kinbit link`
+    ( ./kinbit_link
+    + typology
+        ( genetic bitlink
+            * kinbit link
+    + formation
+        ( additional to surtype formation
+        * import references
+    + function
+        ( additional to surtype function
+        - forms a kinbit tree
+        - casts a vote of approval for the mother kinbit and its progenitors
+            < Votorola style, transitive vote flow ('delegate cascade') in a recombinant text
+                ( http://reluk.ca/project/votorola/d/theory.xht#action-norm
+            - effective iff
+                & the waycast is public
+                    ( else at most it forms a vote without casting it
+                & the daughter kinbit is an imported waybit
+                & the daughter kinbit is either on way or begets on-way progeny
+            - casts a vote whereby the caster (vote caster ≡ waycaster) formally approves (votes for)
+              the content of the mother kinbit and (by transitive vote flow) each of its progenitors
+              that lies outside the waycast
+            - general effect
+                - to publicly use another's waybit is to vote for it
+                    - use implies approval
+                    ( cf. "voting with one's feet"
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────────
+    Kinbit tree`
+    ( ./kinbit_tree
+    + typology
+        ( genetic bit tree
+            * kinbit tree
+    + form
+        - tree of waybits (kinbits) interlinked by kinbit links
+    + function
+        ( additional to surtype function
+        - routes change flow
+            - each link of the tree declares the mother waybit the default source for the flow
+              of genetic content to the daughter
+                - thence in turn to the daughter's daughters, if any, and so on
+                - spreading leafward through the branches to all progeny
+            - general effect
+                - changes of genetic content propagate from progentitor to progeny
+                  except where modified or stopped by other factors
+                - mutatis mutandis, waybit copies tend to maintain a rough synchrony with their sources
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────────
     Locus`
     ( ./locus
     - determination: the locus of a waybit is the first applicable of the following
         1 the value as set by a locus attribute
         2 the value as set by a stemmaplast
         3 the public identifier of the waybit
+    + function
+        - binds waybits to form recombinant bitlinks
+        - binds recombit trees to form a recombit forest
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Locus attribute`
@@ -147,7 +220,9 @@ wayic.origins/doc.task - Documentation in rough
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Maternal attribute`
     < way:mother, namespace data:,wayscript
-    < surtype: stemmaplast
+    + typology
+        ( stemmaplast
+            * maternal attribute
     - apropos the maternal attribute as declared directly on a waybit
         ( cf. the maternal attribute of the *stemmaplast* element
     + placement
@@ -166,64 +241,63 @@ wayic.origins/doc.task - Documentation in rough
             ( http://reluk.ca/project/wayic/script/doc.task
     + function
         - non-genetic content
-        - effective iff the declaring waybit is on way
-        - forms a stemmatic bitlink between the referent waybit (mother) and declaring waybit (daughter)
+        - forms a kinbit link between the referent waybit (mother) and declaring waybit (daughter)
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Recombinant bitlink`
     ( ./recombinant_bitlink
-    < surtype: stemmatic bitlink
-    + form
-              mother recombit → daughter recombit
-
-        * locus
-            - the common locus of both mother recombit and daughter recombit
-        * mother recombit
-            ( node
-            - the genetic parent of the daughter recombit
-        * daughter recombit
-            ( node
-            - a co-local, non-clonal child of the mother recombit
-    + formation
-        * recombinant stemmaplasty
-            - stemmaplasty in which the daughter waybit is co-local and non-clonal with the mother
+    + typology
+        ( stemmatic bitlink
+            * recombinant bitlink
     + function
-        - forms a recombit forest
-        - forms a waycaster network
-            ( [IR]
+        ( additional to surtype function
+        - forms a recombit tree
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Recombit forest`
     ( ./recombit_forest
     < surtype: intercast network
     + form
-        - group of recombit trees
+        - co-local group of recombit trees
+    + formation
+        - loci
+        - recombit trees
     + function
         - guides wayscribes' searches for recombits
             - giving them a structure that is relatively efficient for this purpose
             - faster to search, easier to orient by
             ( cf. Votorola poll, http://reluk.ca/w/Category:Poll
+        - aids the improvement of ways
         - aids the evolution of waykinds
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Recombit tree`
     ( ./recombit_tree
+    + typology
+        ( bit stemma
+            * recombit tree
     + form
-        - tree of recombits interlinked by recombinant bitlinks
+        - tree of waybits (recombits) interlinked by recombinant bitlinks
+    + function
+        ( additional to surtype function
+        - forms a recombit forest
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Stemmaplast`
-    ( ./stemmaplast
+    ( misnomer, correction pending
     + typology
-        * maternal attribute
-        * *stemmaplast* element
+        * stemmaplast
+            * maternal attribute
+            * *stemmaplast* element
     + function
-        - forms a stemmatic bitlink
+        - forms genetic bitlinks
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     *stemmaplast* element`
     < way:stemmaplast, namespace data:,wayscript
-    < surtype: stemmaplast
+    + typology
+        ( stemmaplast
+            * *stemmaplast* element
     + placement
         - on-way document
     + form
@@ -254,20 +328,19 @@ wayic.origins/doc.task - Documentation in rough
                 ( § Design constraints § relative referencing bounded by the waycast
     + function
         - non-genetic content
-        - the *stemmaplast* element is invalid if the referent of the maternal attribute
-          (mother waybit) is off way
+        - effective iff the referent of the maternal attribute (mother waybit) is on way
         < direct form
             - the direct form *stemmaplast* element is invalid if the contained waybit
               has a maternal attribute
                 ( § Maternal attribute
-            - forms a stemmatic bitlink between the mother waybit and the contained waybit (daughter)
+            - forms a kinbit link between the mother waybit and the contained waybit (daughter)
         < referential form
             - the referential form *stemmaplast* element is invalid if the referent
               of the daughter attribute has a maternal attribute
                 ( § Maternal attribute
                 ( impossible if the attribute is formed as an import reference
                     ( importation removes maternal attributes as being non-genetic content
-            - forms a stemmatic bitlink between the mother waybit
+            - forms a kinbit link between the mother waybit
               and the referent of the daughter attribute (daughter waybit)
         - if the daughter waybit has no locus attribute
             - sets the daughter waybit's locus equal to the mother waybit's
@@ -276,49 +349,49 @@ wayic.origins/doc.task - Documentation in rough
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Stemmatic bitlink`
     ( ./stemmatic_bitlink
-    < surtype: intercast link
-        ( [IR]
-    + form
-              mother waybit → daughter waybit
-
-        * mother waybit
-            ( node
-            - the genetic parent of the daughter waybit
-        * daughter waybit
-            ( node
-            - a genetic child of the mother waybit
-    + formation
-        * stemmaplasty
     + typology
-        ( including a formal summary < MOTHER → DAUGHTER > of each type
-        * stemmatic bitlink
-            < mother waybit → daughter waybit >
-            * transport bit trail
-                < exported waybit → imported waybit >
-                ( http://reluk.ca/project/wayic/intercast/doc.task
-            * recombinant bitlink
-                < mother recombit → daughter recombit >
+        ( genetic bitlink
+            * stemmatic bitlink
+                * recombinant bitlink
     + function
+        ( additional to surtype function
         - forms a bit stemma
-        - forms a waycaster network
-            ( [IR]
-        - declares approval of waybit content
-            < Votorola style, transitive vote flow ('delegate cascade') in a recombinant text
-                ( http://reluk.ca/project/votorola/d/theory.xht#action-norm
-            - each stemmatic bitlink is formally a vote
-                - whereby the caster (vote caster = waycaster) formally approves (votes for)
-                  the content of the mother waybit and (by transitive vote flow) its progenitors
-            - here the vote caster is every waycaster for whom that genetic link is on way
-                - warrant
-                    - fact
-                        ( cf. "voting with one's feet"
-                        - being on way
-                            - the mother waybit is used
-                            - which usage implies approval
-                    - prudence
-                        - to avoid forcing the formation of supernumerary direct links
-                            - each merely to formalize the approval already actualized
-                              in the indirect link
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────────
+    Waybit roles`
+    - formal roles of a waybit in genetic relations
+    + terminology
+        * comparative genealogical terms
+            - for sake of brevity and clarity
+                - distinct terms are favoured between waybit genetics on one hand
+                - and elemental nesting of wayscript on the other
+                    ( http://reluk.ca/project/wayic/script/doc.task § Nesting of elements § genealogical
+
+                    Waybit genetics   Elemental nesting
+                    ───────────────   ─────────────────
+                         progenitor   ancestor
+                        grandmother   grandparent
+                             mother   parent
+
+                           daughter   child
+                      granddaughter   grandchild
+                          progenant   descendant
+                      ·············   ···············
+                Unit:        waybit   waybit, element
+              Timing:    diachronic   synchronic
+
+    + typologies
+        * waybit
+            * kinbit
+                * stemmabit
+                    * recombit
+        * waybit
+            * progenitor
+                * mother
+                    * grandmother
+            * progenant
+                * daughter
+                    * granddaughter
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Way population`
@@ -351,7 +424,7 @@ wayic.origins/doc.task - Documentation in rough
             ( https://www.cl.cam.ac.uk/~mgk25/iso-14977.pdf
             ( summary, https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form
 
-   [IR] · Applies only for those instances which are based on an import reference.
+   [IR] · Applies only for those instances which are formed using an import reference.
             ( http://reluk.ca/project/wayic/intercast/doc.task
 
 

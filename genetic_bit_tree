@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<html xml:lang='en-CA' xmlns='http://www.w3.org/1999/xhtml'>
+    <head>
+        <title>‘genetic bit tree’</title>
+        </head>
+    <body>
+
+
+<section      id='genetic_bit_tree'>
+    <h2><a href='#genetic_bit_tree'>
+                  genetic bit tree</a></h2>
+    <ul>
+        <li>
+            an arborescent network of <a href='http://reluk.ca/project/wayic/script/waybit'>
+            waybits</a> bound by <a href='genetic_bitlink'>genetic bitlinks</a>
+            <ul>
+                <li>
+                    a formalized genealogical tree of waybits
+                    </li>
+                <li>
+                    the <a href='http://reluk.ca/project/wayic/wayical'>
+                    wayical</a> analogue of a gene tree
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </section>
+
+
+        </body>
+    </html>

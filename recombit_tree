@@ -12,17 +12,17 @@
     <ul>
         <li>
             a <a href='bit_stemma'>
-            bit stemma</a> excluding <a href='clone'>
-            clones</a> and bounded by a <a href='locus'>
+            bit stemma</a> bounded by a <a href='locus'>
             locus</a>, such that it contains only <a href='recombit'>
-            recombits</a>
-            </li>
+            recombits</a> joined by recombinant bitlinks
             <ul>
                 <li>
                     an <a href='intralocal'>
-                    intralocal</a>, non-clonal bit stemma
+                    intralocal</a>, non-<a href='clone'>
+                    clonal</a>, <a href='genetic_bit_tree'>genetic bit tree</a>
                     </li>
                 </ul>
+            </li>
         </ul>
     </section>
 

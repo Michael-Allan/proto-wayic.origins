@@ -11,16 +11,22 @@
                   bit stemma</a></h2>
     <ul>
         <li>
-            an <a href='http://reluk.ca/project/wayic/cast/intercast_network'>
-            intercast network</a> of <a href='http://reluk.ca/project/wayic/script/waybit'>
-            waybits</a> bound by genetic links
+            an arborescent network of <a href='http://reluk.ca/project/wayic/script/waybit'>
+            waybits</a> bound by <a href='stemmatic_bitlink'>stemmatic bitlinks</a>
+            <ul>
+                <li>
+                    a non-<a href='clone'>
+                    clonal</a>, <a href='genetic_bit_tree'>genetic bit tree</a>
+                    </li>
+                </ul>
             </li>
         <li>
-            a group of waybits descending by genetic links from a common progenitor
+            a non-clonal group of waybits descending from a common <a href='progenitor'>
+            progenitor</a>
             <ul>
                 <li>
                     the <a href='http://reluk.ca/project/wayic/wayical'>
-                    wayical</a> analogue of a gene tree
+                    wayical</a> analogue of a gene clade
                     </li>
                 </ul>
             </li>

@@ -4,8 +4,8 @@
         <title>‘recombit’</title>
         </head>
     <body>
-        <!-- Not 'recombinant waybit'.  It would clash with the biological terminology.
-          There 'recombinant' means formed by recombination, which is not the meaning here. -->
+        <!-- Not 'recombinant waybit'.  That might also denote a waybit *formed* by recombination,
+          which is not the meaning here. -->
 
 
 <section      id='recombit'>
@@ -19,17 +19,20 @@
             <!-- After the definition of ‘allele’ in the Oxford dictionary of English, 2nd edition.
               Edited by Judy Pearsall, Patrick Hanks, Catherine Soanes and Angus Stevenson.
               Oxford University Press, Oxford, 2003. -->
-            </li>
-        <li>
-            each of two or more <a href='co-local'>
-            co-local</a>, <a href='clone'>
-            non-clonal</a> waybits
             <ul>
+                <li>
+                    each of two or more <a href='co-local'>
+                    co-local</a>, non-<a href='clone'>
+                    clonal</a> waybits
+                    </li>
                 <li>
                     the <a href='http://reluk.ca/project/wayic/wayical'>
                     wayical</a> analogue of an allele, or ‘allelomorph’
                     </li>
                 </ul>
+            </li>
+        <li>
+            a waybit in a <a href='recombinant_bitlink'>recombinant bitlink</a>
             </li>
         </ul>
     </section>

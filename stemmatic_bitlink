@@ -11,8 +11,18 @@
                   stemmatic bitlink</a></h2>
     <ul>
         <li>
-            a genetic link between <a href='http://reluk.ca/project/wayic/script/waybit'>
-            waybits</a>
+            a <a href='genetic_bitlink'>
+            genetic bitlink</a> between a <a href='mother'>
+            mother</a> <a href='http://reluk.ca/project/wayic/script/waybit'>
+            waybit</a> and its first non-<a href='clone'>
+            clonal</a> descendant, which is considered a <a href='daughter'>
+            daughter</a> for this purpose,
+            any intermediate clones being taken as identical to the mother
+            <ul>
+                <li>
+                    a non-clonal genetic bitlink
+                    </li>
+                </ul>
             </li>
         </ul>
     </section>
