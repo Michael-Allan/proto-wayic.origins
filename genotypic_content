@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <html xml:lang='en-CA' xmlns='http://www.w3.org/1999/xhtml'>
     <head>
-        <title>‘genetic_content’</title>
+        <title>‘genotypic_content’</title>
         </head>
     <body>
 
 
-<section      id='genetic_content'>
-    <h2><a href='#genetic_content'>
-                  genetic content</a></h2>
+<section      id='genotypic_content'>
+    <h2><a href='#genotypic_content'>
+                  genotypic content</a></h2>
     <ul>
         <li>
             (mass noun) <a href='http://reluk.ca/project/wayic/script/waysource'>
@@ -18,7 +18,7 @@
         <li>
             elements, attributes and other components
             of <a href='http://reluk.ca/project/wayic/script/Wayscript'>
-            Wayscript</a> that form genetic content
+            Wayscript</a> that form genotypic content
             </li>
         </ul>
     </section>
