@@ -11,14 +11,9 @@
                   genotypic content</a></h2>
     <ul>
         <li>
-            (mass noun) <a href='http://reluk.ca/project/wayic/script/waysource'>
-            waysource</a> that, when changed, makes a <a href='clone'>
-            clone</a> into a non-clone
-            </li>
-        <li>
-            elements, attributes and other components
-            of <a href='http://reluk.ca/project/wayic/script/Wayscript'>
-            Wayscript</a> that form genotypic content
+            <a href='http://reluk.ca/project/wayic/script/waysource'>
+            waysource</a> that determines <a href='genotype'>
+            genotype</a>
             </li>
         </ul>
     </section>
