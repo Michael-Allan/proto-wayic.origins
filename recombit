@@ -22,12 +22,12 @@
             <ul>
                 <li>
                     each of two or more <a href='co-local'>
-                    co-local</a>, non-<a href='clone'>
-                    clonal</a> waybits
+                    co-local</a>, <a href='variant_waybit'>
+                    variant waybits</a>
                     </li>
                 <li>
                     the <a href='http://reluk.ca/project/wayic/wayical'>
-                    wayical</a> analogue of an allele, or ‘allelomorph’
+                    wayical</a> analogue of an allele
                     </li>
                 </ul>
             </li>

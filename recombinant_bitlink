@@ -19,9 +19,10 @@
             locus</a>
             <ul>
                 <li>
-                    a non-<a href='clone'>
-                    clonal</a>, <a href='intralocal'>
-                    intralocal</a> <a href='genetic_bitlink'>
+                    an <a href='intralocal'>
+                    intralocal</a>, <a href='clone_blind'>
+                    clone blind</a> and <a href='aclonal'>
+                    aclonal</a>, <a href='genetic_bitlink'>
                     genetic bitlink</a>
                     </li>
                 </ul>

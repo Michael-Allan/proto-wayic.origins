@@ -17,9 +17,10 @@
             recombits</a> joined by recombinant bitlinks
             <ul>
                 <li>
-                    an <a href='intralocal'>
-                    intralocal</a>, non-<a href='clone'>
-                    clonal</a>, <a href='genetic_bit_tree'>genetic bit tree</a>
+                    a <a href='clone_blind'>
+                    clone blind</a>, <a href='intralocal'>
+                    intralocal</a>, <a href='genetic_bit_tree'>
+                    genetic bit tree</a>
                     </li>
                 </ul>
             </li>

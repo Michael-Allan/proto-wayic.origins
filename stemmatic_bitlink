@@ -11,16 +11,18 @@
                   stemmatic bitlink</a></h2>
     <ul>
         <li>
-            a <a href='genetic_bitlink'>
-            genetic bitlink</a> between a <a href='mother'>
+            a systematically formed, <a href='clone_blind'>
+            clone blind</a> relation between a <a href='mother'>
             mother</a> <a href='http://reluk.ca/project/wayic/script/waybit'>
-            waybit</a> and its first non-<a href='clone'>
-            clonal</a> descendant, which is considered a <a href='daughter'>
-            daughter</a> for this purpose,
-            any intermediate clones being taken as identical to the mother
+            waybit</a> and a <a href='clone#first_aclonal'>
+            first aclonal</a> <a href='progenant'>
+            progenant</a>, which it takes as a <a href='daughter'>
+            daughter</a> for this purpose
             <ul>
                 <li>
-                    a non-clonal genetic bitlink
+                    a clone blind, <a href='aclonal'>
+                    aclonal</a>, <a href='genetic_bitlink'>
+                    genetic bitlink</a>
                     </li>
                 </ul>
             </li>

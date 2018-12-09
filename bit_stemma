@@ -11,17 +11,17 @@
                   bit stemma</a></h2>
     <ul>
         <li>
-            an arborescent network of <a href='http://reluk.ca/project/wayic/script/waybit'>
-            waybits</a> bound by <a href='stemmatic_bitlink'>stemmatic bitlinks</a>
+            an arborescent network of <a href='variant_waybit'>
+            variant waybits</a> bound by <a href='stemmatic_bitlink'>stemmatic bitlinks</a>
             <ul>
                 <li>
-                    a non-<a href='clone'>
-                    clonal</a>, <a href='genetic_bit_tree'>genetic bit tree</a>
+                    a <a href='clone_blind'>
+                    clone blind</a>, <a href='genetic_bit_tree'>genetic bit tree</a>
                     </li>
                 </ul>
             </li>
         <li>
-            a non-clonal group of waybits descending from a common <a href='progenitor'>
+            a group of variant waybits descending from a common <a href='progenitor'>
             progenitor</a>
             <ul>
                 <li>
