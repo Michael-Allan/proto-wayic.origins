@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<html xml:lang='en-CA' xmlns='http://www.w3.org/1999/xhtml'>
+    <head>
+        <title>‘vote_flow’</title>
+        </head>
+    <body>
+
+
+<section      id='vote_flow'>
+    <h2><a href='#vote_flow'>
+                  vote flow</a></h2>
+    <ul>
+        <li>
+            the cascading propagation rootward in <a href='genetic_bit_tree'>
+            genetic bit trees</a>, <!-- specifically kinbit trees -->
+            from <a href='http://reluk.ca/project/wayic/script/waybit'>
+            waybit</a> to <a href='http://reluk.ca/project/wayic/script/waybit'>
+            waybit</a>, of the votes inherent in their leafward <a href='genetic_bitlink'>
+            bitlinks</a>
+            </li>
+        <li>
+            a stream of formal approval from <a href='progeny'>
+            progeny</a> to <a href='progenitor'>
+            progenitor</a> in a genetic bit tree
+            </li>
+        </ul>
+    </section>
+
+
+        </body>
+    </html>

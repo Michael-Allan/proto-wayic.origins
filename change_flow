@@ -14,7 +14,7 @@
             the action or fact of maintaining synchrony among <a href='progenitor'>
             progenitors</a> and <a href='progeny'>
             progeny</a> by streaming text changes through their <a href='genetic_bit_tree'>
-            genetic bit trees</a>
+            genetic bit trees</a> <!-- specifically kinbit trees -->
             </li>
         <li>
             a synchronizing stream of text changes between or among genetically related

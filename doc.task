@@ -57,7 +57,7 @@ wayic.origins/doc.task - Documentation in rough
             - cf. in evolutionary biology the potentially maladaptive effects (at a larger scale)
               of gene flow into a population
     + formation
-        * kinbit trees
+        * kinbit links
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Genetic bitlink`
@@ -390,6 +390,12 @@ wayic.origins/doc.task - Documentation in rough
     + function
         ( additional to surtype function
         - forms a bit stemma
+
+    ────────────────────────────────────────────────────────────────────────────────────────────────────
+    Vote flow`
+    ( ./vote_flow
+    + formation
+        * kinbit links
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Waybit roles`
