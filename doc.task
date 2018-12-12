@@ -57,7 +57,22 @@ wayic.origins/doc.task - Documentation in rough
             - cf. in evolutionary biology the potentially maladaptive effects (at a larger scale)
               of gene flow into a population
     + formation
-        * kinbit links
+        * kinbit trees
+            - the routing of change flow is a function of kinbit trees
+            - leafward routing
+                - each link of a kinbit tree declares the mother waybit
+                  a default source for change flow incoming to the daughter
+                    - thence in turn to the daughter's daughters, if any, and so on
+                    - spreading leafward through the branches to all progeny
+            - rootward routing
+                - the vote of approval inherent in each link of a kinbit tree makes the daughter waybit
+                  a prudent source for change flow incoming to the mother
+                    - thence in turn to the mother's mother, if any, and so on
+                    - streaming rootward to all progenitors
+            - general effect
+                - changes of genotypic content propagate among genetically related waybits
+                  except where modified or stopped by other factors
+                - mutatis mutandis, waybit copies and sources tend to maintain a rough synchrony
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Genetic bitlink`
@@ -181,30 +196,14 @@ wayic.origins/doc.task - Documentation in rough
     + function
         ( additional to surtype function
         - forms a kinbit tree
-        - routes change flow
-            - each link declares the mother waybit the default source for the flow
-              of genotypic content from mother to daughter
-                - thence in turn to each of the daughter's daughters, if any, and so on
-                - spreading leafward through the branches of the kinbit tree to all progeny
-            - general effect
-                - changes of genotypic content propagate from progentitor to progeny
-                  except where modified or stopped by other factors
-                - mutatis mutandis, waybit copies tend to maintain a rough synchrony with their sources
-        - casts a vote of approval for the mother kinbit and its progenitors
-            < Votorola style, transitive vote flow ('delegate cascade') in a recombinant text
-                ( http://reluk.ca/project/votorola/d/theory.xht#action-norm
-            - effective iff
-                & the waycast is public
-                    ( else at most it forms a vote without casting it
-                & the daughter kinbit is an imported waybit
-                & the daughter kinbit is either on way or begets on-way progeny
-            - casts a vote whereby the caster (vote caster ≡ waycaster) formally approves (votes for)
-              the content of the mother kinbit and (by transitive vote flow) each of its progenitors
-              that lies outside the waycast
-            - general effect
-                - to publicly use another's waybit is to vote for it
-                    - use implies approval
-                    ( cf. "voting with one's feet"
+        - forms a vote of approval for the mother kinbit and its progenitors
+            - effective iff the daughter is on way
+                - regardless the link will still serve the kinbit tree in routing the flow of votes
+                  from any on-way progeny of the daughter
+                    ( Kinbit tree § function
+        - casts the vote
+            - effective on waycast publication
+            - vote caster ≡ waycaster
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Kinbit tree`
@@ -214,6 +213,10 @@ wayic.origins/doc.task - Documentation in rough
             * kinbit tree
     + form
         - tree of waybits (kinbits) interlinked by kinbit links
+    + function
+        ( additional to surtype function
+        - routes vote flow
+        - routes change flow
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Locus`
@@ -394,8 +397,23 @@ wayic.origins/doc.task - Documentation in rough
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Vote flow`
     ( ./vote_flow
+    - Votorola style, transitive vote flow (delegate cascade) in a recombinant text
+        ( http://reluk.ca/project/votorola/d/theory.xht#action-norm
     + formation
         * kinbit links
+            - the formation and casting of votes is a function of kinbit links
+            - each public, on-way kinbit link forms and casts a vote
+              whereby the caster (vote caster ≡ waycaster) formally approves (votes for)
+              the content of the mother kinbit and (by vote flow) each of its progenitors
+            - therefore to publicly use a waybit is to vote for it and its sources
+                - approval inheres in use
+                ( cf. "voting with one's feet"
+        * kinbit trees
+            - the routing of vote flow is a function of kinbit trees
+            - propagating rootward from kinbit to kinbit
+                - the votes flow together and gather in volume (cascade)
+                  like raindrops down the branches of the trees
+                ( http://reluk.ca/project/votorola/d/theory.xht#fn-1
 
     ────────────────────────────────────────────────────────────────────────────────────────────────────
     Waybit roles`
