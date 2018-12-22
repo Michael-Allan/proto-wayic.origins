@@ -236,7 +236,7 @@ wayic.origins/doc.task - Documentation in rough
     + placement
         - waybit
     + form
-        ( [EBN], exclusive of namespacing, quoting and whitespacing variations allowed by Wayscript
+        ( [EBN], exclusive of allowed namespacing, quoting and whitespacing variations
 
           locus attribute = 'way:locus="', ( value literal | value name ), '"' ;
 
@@ -265,11 +265,11 @@ wayic.origins/doc.task - Documentation in rough
     + placement
         - waybit
     + form
-        ( [EBN], exclusive of namespacing, quoting and whitespacing variations allowed by Wayscript
+        ( [EBN], exclusive of allowed namespacing, quoting and whitespacing variations
 
           maternal attribute = 'way:mother="', formally intracast reference with fragment, '"' ;
 
-        ( formally intracast reference with fragment, http://reluk.ca/project/wayic/script/doc.task
+        ( formally intracast reference with fragment, http://reluk.ca/project/wayic/cast/doc.task
         - formally intracast in compliance with design constraints
             ( http://reluk.ca/project/wayic/cast/doc.task
                 ( § Design constraints § relative referencing bounded by the waycast
@@ -338,7 +338,7 @@ wayic.origins/doc.task - Documentation in rough
     + placement
         - on-way document
     + form
-        ( [EBN], exclusive of namespacing, quoting and whitespacing variations allowed by Wayscript
+        ( [EBN], exclusive of allowed namespacing, quoting and whitespacing variations
 
           start tag = '<way:stemmaplast' ;
 
@@ -356,7 +356,7 @@ wayic.origins/doc.task - Documentation in rough
               referential form stemmaplast element = start tag, ' ', maternal attribute,
                 'way:daughter="', formally intracast reference with fragment, '"/>' ;
 
-            ( formally intracast reference with fragment, http://reluk.ca/project/wayic/script/doc.task
+            ( formally intracast reference with fragment, http://reluk.ca/project/wayic/cast/doc.task
 
         ( import reference with fragment, http://reluk.ca/project/wayic/intercast/doc.task
         - all references are formally intracast in compliance with design constraints
