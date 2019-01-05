@@ -52,6 +52,7 @@ wayic.origins/doc.task - Documentation in rough
     - in any case, implementations will have to afford precise control for the waycaster
       on the receiving end
         - automated flow 'around' uniquely personal lines of text, even if desirable, will not suffice
+            ( wayic.cast § Uniquely personal content
         - the problem of maintaining a desired text difference in the face of incoming change flow
           is larger and demands a more general solution
             - cf. in evolutionary biology the potentially maladaptive effects (at a larger scale)
