@@ -271,9 +271,6 @@ wayic.origins/doc.task - Documentation in rough
           maternal attribute = 'way:mother="', formally intracast reference with fragment, '"' ;
 
         ( formally intracast reference with fragment, http://reluk.ca/project/wayic/cast/doc.task
-        - formally intracast in compliance with design constraints
-            ( http://reluk.ca/project/wayic/cast/doc.task
-                ( § Design constraints § relative referencing bounded by the waycast
     + resolution
         - the fragment is resolved as an extended element reference
             ( http://reluk.ca/project/wayic/script/doc.task
@@ -360,10 +357,6 @@ wayic.origins/doc.task - Documentation in rough
             ( formally intracast reference with fragment, http://reluk.ca/project/wayic/cast/doc.task
 
         ( import reference with fragment, http://reluk.ca/project/wayic/intercast/doc.task
-        - all references are formally intracast in compliance with design constraints
-            ( http://reluk.ca/project/wayic/cast/doc.task
-                ( § Formally intracast reference
-                ( § Design constraints § relative referencing bounded by the waycast
     + function
         - non-genotypic content
         - effective iff the referent of the maternal attribute (mother waybit) is on way
