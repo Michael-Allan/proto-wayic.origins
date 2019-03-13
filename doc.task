@@ -237,7 +237,7 @@ wayic.origins/doc.task - Documentation in rough
     + placement
         - waybit
     + form
-        ( [EBN], exclusive of allowed namespacing, quoting and whitespacing variations
+        ( [EBN], exclusive of equivalent variants allowed by XHTML
 
           locus attribute = 'way:locus="', ( value literal | value name ), '"' ;
 
@@ -266,7 +266,7 @@ wayic.origins/doc.task - Documentation in rough
     + placement
         - waybit
     + form
-        ( [EBN], exclusive of allowed namespacing, quoting and whitespacing variations
+        ( [EBN], exclusive of equivalent variants allowed by XHTML
 
           maternal attribute = 'way:mother="', formally intracast reference with fragment, '"' ;
 
@@ -336,7 +336,7 @@ wayic.origins/doc.task - Documentation in rough
     + placement
         - on-way document
     + form
-        ( [EBN], exclusive of allowed namespacing, quoting and whitespacing variations
+        ( [EBN], exclusive of equivalent variants allowed by XHTML
 
           start tag = '<way:stemmaplast' ;
 
