@@ -11,14 +11,14 @@
                   way population</a></h2>
     <ul>
         <li>
-            an <a href='http://reluk.ca/project/wayic/intercast/intercast_network'>
-            intercast network</a> of <a href='http://reluk.ca/project/wayic/way'>
-            ways</a> bound through their <a href='http://reluk.ca/project/wayic/cast/waycast'>
-            waycasts</a> by intercast <a href='http://reluk.ca/project/wayic/script/referential_joint'>
+            an <a href='http://reluk.ca/project/proto-wayic/intercast/intercast_network'>
+            intercast network</a> of <a href='http://reluk.ca/project/proto-wayic/way'>
+            ways</a> bound through their <a href='http://reluk.ca/project/proto-wayic/cast/waycast'>
+            waycasts</a> by intercast <a href='http://reluk.ca/project/proto-wayic/script/referential_joint'>
             referential joints</a>
             <ul>
                 <li>
-                    the <a href='http://reluk.ca/project/wayic/wayical'>
+                    the <a href='http://reluk.ca/project/proto-wayic/wayical'>
                     wayical</a> analogue of a biological population
                     </li>
                 </ul>
